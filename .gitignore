@@ -34,3 +34,10 @@ Thumbs.db
 *.log
 *.tmp
 
+# Binary artwork is reconstructed from tracked chunks by:
+# dart run tools/restore_binary_assets.dart
+assets/branding/*.png
+assets/images/*.png
+android/app/src/main/ic_launcher-playstore.png
+android/app/src/main/res/drawable-*/*.png
+android/app/src/main/res/mipmap-*/*.png

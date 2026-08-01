@@ -1,0 +1,304 @@
+{
+    "format":  "base64-parts-v1",
+    "generatedFrom":  "original project PNG assets",
+    "chunkCharacters":  65536,
+    "assets":  [
+                   {
+                       "path":  "android/app/src/main/ic_launcher-playstore.png",
+                       "bytes":  436946,
+                       "sha256":  "74b4f368f9f15897de7edd347331daaf94eeb72ab64c69aa4d3d93a40fe27063",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part002.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part003.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part004.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part005.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part006.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part007.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part008.b64",
+                                     "binary_assets/parts/android_app_src_main_ic_launcher-playstore.png.part009.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/drawable-hdpi/ic_launcher_foreground.png",
+                       "bytes":  41964,
+                       "sha256":  "92f416588fb660e440b330a1e43b609ea8b2601bbeae3d3892f0d27595491faa",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_drawable-hdpi_ic_launcher_foreground.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/drawable-mdpi/ic_launcher_foreground.png",
+                       "bytes":  20074,
+                       "sha256":  "d42859266f1d503086955decc91f0765319b56c80800de8e59c86b13c39b5ca8",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_drawable-mdpi_ic_launcher_foreground.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.png",
+                       "bytes":  71334,
+                       "sha256":  "e0d32a860cde0110014b40a8d1b48383e8144973568b83439c8f2ef95ab71473",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xhdpi_ic_launcher_foreground.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xhdpi_ic_launcher_foreground.png.part002.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.png",
+                       "bytes":  152961,
+                       "sha256":  "7206a5d943cd2f2b8b3241894a2bf31685be982665061c2df8c8112c273fff52",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxhdpi_ic_launcher_foreground.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxhdpi_ic_launcher_foreground.png.part002.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxhdpi_ic_launcher_foreground.png.part003.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxhdpi_ic_launcher_foreground.png.part004.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png",
+                       "bytes":  268240,
+                       "sha256":  "c9abc4e69bb3a704686e10ed37f345a4c5be416ab2d6a83a2b0c99640777bc11",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part002.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part003.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part004.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part005.b64",
+                                     "binary_assets/parts/android_app_src_main_res_drawable-xxxhdpi_ic_launcher_foreground.png.part006.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+                       "bytes":  10506,
+                       "sha256":  "20682e76c5b63c23f11559b39cdb46c7cf2267afd99acd96ac367e56cc93dcfd",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-hdpi_ic_launcher.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+                       "bytes":  9866,
+                       "sha256":  "dd5ade923b4d2b25ca976b0a300811131c2894cae3066c177855368e1e7d0077",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-hdpi_ic_launcher_round.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+                       "bytes":  5152,
+                       "sha256":  "86e7ad10af8aacc189aa4a1b41311c431c17d883b52b4895f5743b6f21737933",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-mdpi_ic_launcher.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+                       "bytes":  4758,
+                       "sha256":  "f898041017e502e234c2c8262d62b53c4a38718527582af0eaa76fe939f96bf4",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-mdpi_ic_launcher_round.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+                       "bytes":  17575,
+                       "sha256":  "d8f2d4003e8e12679c2d1120eece37a7f989fd98338e50cf9a7521b372e12ff7",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xhdpi_ic_launcher.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+                       "bytes":  16205,
+                       "sha256":  "2265925f4eef41a94b3af542b37c57babc42bcfd1956bb23378b647754128044",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xhdpi_ic_launcher_round.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+                       "bytes":  36435,
+                       "sha256":  "a70a24aedd4799043c6ee3e5fbfd42ba5b43dc8b641465c338b134a68755fbce",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxhdpi_ic_launcher.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+                       "bytes":  33251,
+                       "sha256":  "e8d951b1323e65e71831e60abf641dc639ebe001556cc2b623b1ae0baec576fb",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxhdpi_ic_launcher_round.png.part001.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+                       "bytes":  61600,
+                       "sha256":  "1c554016910e54a6c5c6515b83b6730e70a6a274279e96a33cf41e53aad367bd",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxxhdpi_ic_launcher.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxxhdpi_ic_launcher.png.part002.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+                       "bytes":  55828,
+                       "sha256":  "a63defe4f36404d64772d6369a81c8f2970a9d71919cc06cf9c05b9e03b964d0",
+                       "parts":  [
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxxhdpi_ic_launcher_round.png.part001.b64",
+                                     "binary_assets/parts/android_app_src_main_res_mipmap-xxxhdpi_ic_launcher_round.png.part002.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "assets/branding/trustissue_panda_app_icon.png",
+                       "bytes":  1674364,
+                       "sha256":  "b0dfeca38dc49ff5c841b4b9c1063d0a6d02ac6ed19ad23c0bcb8f2e464cac74",
+                       "parts":  [
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part001.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part002.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part003.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part004.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part005.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part006.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part007.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part008.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part009.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part010.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part011.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part012.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part013.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part014.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part015.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part016.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part017.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part018.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part019.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part020.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part021.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part022.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part023.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part024.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part025.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part026.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part027.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part028.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part029.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part030.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part031.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part032.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part033.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part034.b64",
+                                     "binary_assets/parts/assets_branding_trustissue_panda_app_icon.png.part035.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "assets/images/aurora_bg.png",
+                       "bytes":  1682606,
+                       "sha256":  "2c0205d2b8c0d22e92a4d37a32a006e3a44477e44306ff82a9f7b9869b8ed94c",
+                       "parts":  [
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part001.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part002.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part003.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part004.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part005.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part006.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part007.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part008.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part009.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part010.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part011.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part012.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part013.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part014.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part015.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part016.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part017.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part018.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part019.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part020.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part021.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part022.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part023.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part024.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part025.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part026.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part027.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part028.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part029.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part030.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part031.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part032.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part033.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part034.b64",
+                                     "binary_assets/parts/assets_images_aurora_bg.png.part035.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "assets/images/focus_session.png",
+                       "bytes":  1996692,
+                       "sha256":  "4a3d0530525e19f5fc998f921b66d0ac5ec290c8596b4eef52e8efb4703c9ab2",
+                       "parts":  [
+                                     "binary_assets/parts/assets_images_focus_session.png.part001.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part002.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part003.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part004.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part005.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part006.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part007.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part008.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part009.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part010.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part011.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part012.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part013.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part014.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part015.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part016.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part017.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part018.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part019.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part020.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part021.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part022.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part023.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part024.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part025.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part026.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part027.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part028.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part029.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part030.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part031.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part032.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part033.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part034.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part035.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part036.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part037.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part038.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part039.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part040.b64",
+                                     "binary_assets/parts/assets_images_focus_session.png.part041.b64"
+                                 ]
+                   },
+                   {
+                       "path":  "assets/images/panda_loader.png",
+                       "bytes":  491878,
+                       "sha256":  "11714b8f699ef26713c56c86c4dcb73706b388202add8204153e033b04e3d92d",
+                       "parts":  [
+                                     "binary_assets/parts/assets_images_panda_loader.png.part001.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part002.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part003.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part004.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part005.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part006.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part007.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part008.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part009.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part010.b64",
+                                     "binary_assets/parts/assets_images_panda_loader.png.part011.b64"
+                                 ]
+                   }
+               ]
+}

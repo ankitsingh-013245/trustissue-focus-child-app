@@ -88,6 +88,8 @@ See [`docs/combined_protection_architecture.md`](docs/combined_protection_archit
 | `android/app/src/test/` | Kotlin/JVM policy, DNS codec, usage, detector, and retry tests. |
 | `docs/` | Privacy draft, Play release checklist, accessibility review script, and protection architecture. |
 | `tools/generate_feature_audit.py` | Generates the feature-audit workbook. |
+| `tools/restore_binary_assets.dart` | Reconstructs exact PNG artwork from tracked Base64 chunks. |
+| `binary_assets/` | Versioned binary-asset manifest and small Base64 parts. |
 | `TrustIssue_Feature_Audit_2026-07-23.xlsx` | Point-in-time feature and release audit. |
 
 ## Clone and open locally
@@ -119,7 +121,17 @@ git clone https://github.com/ankitsingh-013245/trustissue-focus-child-app.git
 cd trustissue-focus-child-app
 ```
 
-### 3. Fetch Flutter packages
+### 3. Restore binary artwork
+
+The repository stores PNG artwork as small tracked Base64 chunks. Restore the exact original files with the Dart SDK included in Flutter:
+
+```powershell
+dart run tools/restore_binary_assets.dart
+```
+
+The command verifies every restored file's byte length and reports all 20 restored assets. Run it once after cloning and whenever files under `binary_assets/` change.
+
+### 4. Fetch Flutter packages
 
 ```powershell
 flutter pub get
@@ -127,7 +139,7 @@ flutter pub get
 
 Flutter/Android tooling generates `android/local.properties` with machine-specific SDK paths. Do not commit that file.
 
-### 4. Open the project
+### 5. Open the project
 
 In Android Studio:
 
@@ -144,7 +156,7 @@ code .
 
 Install the Flutter and Dart extensions if prompted.
 
-### 5. Run the application
+### 6. Run the application
 
 List connected devices:
 
@@ -333,7 +345,7 @@ Before shipping:
 
 ## Generated files excluded from Git
 
-The `.gitignore` excludes Flutter/Gradle build output, `.dart_tool`, plugin metadata, Android SDK paths, IDE files, logs, and all common signing-key formats. A fresh clone recreates generated files with `flutter pub get`, Gradle sync, tests, or a build.
+The `.gitignore` excludes Flutter/Gradle build output, `.dart_tool`, plugin metadata, Android SDK paths, IDE files, logs, signing-key formats, and reconstructed PNG artwork. A fresh clone restores artwork with `dart run tools/restore_binary_assets.dart`, then recreates other generated files with `flutter pub get`, Gradle sync, tests, or a build.
 
 ## License
 
