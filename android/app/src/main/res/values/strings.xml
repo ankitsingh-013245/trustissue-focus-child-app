@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrustIssue Focus</string>
+    <string name="self_control_accessibility_label">TrustIssue Focus protection</string>
+    <string name="self_control_accessibility_description">Uses foreground app package changes to apply your focus rules, show block screens and support temporary study-tool handoffs. If you separately enable YouTube Shorts or Instagram Reels Blocking, it reads only visible accessibility labels and view identifiers from that app in memory to identify short-form content and a swipe to the next item. It does not capture screenshots, type, click, read notifications, passwords or messages, or store or send those labels.</string>
+</resources>

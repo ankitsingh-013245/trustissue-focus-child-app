@@ -1,0 +1,49 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/aurora_night</item>
+    </style>
+
+    <style name="NormalTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/aurora_night</item>
+    </style>
+
+    <style name="FocusGateTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#090B0A</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/FocusGateWindowAnimation</item>
+        <item name="android:statusBarColor">#090B0A</item>
+        <item name="android:navigationBarColor">#090B0A</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="FocusGateWindowAnimation">
+        <item name="android:activityOpenEnterAnimation">@anim/focus_gate_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/focus_gate_hold</item>
+        <item name="android:activityCloseEnterAnimation">@anim/focus_gate_hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/focus_gate_exit</item>
+    </style>
+
+    <style name="StudyToolGateTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.78</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="WebBlockTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.82</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/WebBlockWindowAnimation</item>
+    </style>
+
+    <style name="WebBlockWindowAnimation">
+        <item name="android:activityOpenEnterAnimation">@anim/web_block_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/focus_gate_hold</item>
+        <item name="android:activityCloseEnterAnimation">@anim/focus_gate_hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/web_block_exit</item>
+    </style>
+</resources>
